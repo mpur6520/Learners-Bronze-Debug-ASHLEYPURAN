@@ -1,0 +1,50 @@
+ERROR REPORT - LEVEL 1, BRONZE
+==============================
+
+Below you will write your debugging report by answering the following questions about the 4 errors you found.
+
+-----------------------------------------------------------------------
+
+ERROR 1
+=======
+
+1. What line did you find the error?
+
+I found the error on line 16.
+
+2.What was the error and how did you fix it?
+
+The paragraph tag was missing a closing tag; I fixed this by entering the correct closing tag for it.
+
+ERROR 2
+=======
+
+1. What line did you find the error?
+
+I found the error on line 11.
+
+2.What was the error and how did you fix it?
+
+The image wasn't appearing because the wrong file type was inserted into the html code; the original was set as a .jpg instead of a .png, so I changed it to a .png file.
+
+ERROR 3
+=======
+
+1. What line did you find the error?
+
+I found the error on line 15.
+
+2.What was the error and how did you fix it?
+
+The wrong tag was used for paragraph; I switched the <paragraph></paragraph> to the correct tag, which is <p></p>.
+
+ERROR 4
+=======
+
+1. What line did you find the error?
+
+I found the error on line 14.
+
+2.What was the error and how did you fix it?
+
+The heading is meant to be 2, but it was placed as 6. I switched the <h6></h6> tag to a <h2></h2> tag, which consequently made the text bigger.
